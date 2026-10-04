@@ -1,0 +1,6 @@
+{
+  "name": "ProteinX — High-Voltage Kinetic Nutrition",
+  "description": "High-voltage functional fuel engineered for the chronically active, late-night grinders, esports contenders, and heavy lifters. Zero chalk, 100% hype.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
